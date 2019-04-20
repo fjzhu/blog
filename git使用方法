@@ -1,0 +1,30 @@
+##/Git 流程/##
+/set your username and email/
+git config --global user.name "fjzhu"
+git config --global user.email "fangjie121@gmail.com"
+
+/set up ssh key/
+ssh-keygen -t rsa -C "fangjie121@gmail.com"
+
+/Check .ssh/id_rsa.pub file/
+open .ssh/id_rsa.pub
+
+/Sign in github -- press setting -- SSH/
+
+/verify/
+ssh -T git@github.com
+
+/clone/
+cd /Users/zhufangjie/Desktop/
+git clone ....git
+
+/Upload/
+cd /Users/zhufangjie/Desktop/blog
+
+//文件上传到暂存区//
+git add .
+//暂存区提交到仓库//
+git commit -m"First Commit"
+//上传到github//
+git push
+
