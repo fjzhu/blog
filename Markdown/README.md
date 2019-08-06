@@ -11,7 +11,7 @@
     > 此处与链接图片类似 （test/README.md)
 - 链接[本地html文件](test/Assessment_timetable.html)
     >与链接文档相同
-- 链接[PDF文件]()
+- 链接[PDF文件](https://github.com/fjzhu/blog/blob/master/Markdown/test/Tutorial%206%20Answers%20To%20Additional%20Tutorial%20Questions.pdf)
     >由于Markdown不支持PDF格式的传送，因此应链接到PDF所在的Github网页
 
 ## *Ending~*
