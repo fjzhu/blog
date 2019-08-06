@@ -1,5 +1,5 @@
 # Goodnote笔记指南
-
+<font size=5>
 这是打开软件看到的画面
 ![1](Image/1.jpg)
 
