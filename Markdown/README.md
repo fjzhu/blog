@@ -14,4 +14,4 @@
 - 链接[PDF文件](https://github.com/fjzhu/blog/blob/master/Markdown/test/Tutorial%206%20Answers%20To%20Additional%20Tutorial%20Questions.pdf)
     >由于Markdown不支持PDF格式的传送，因此应链接到PDF所在的Github网页
 
-## *Ending~*
+## *如有不懂点击右侧*row*按钮查看源代码*
