@@ -13,5 +13,11 @@
     >与链接文档相同
 - 链接[PDF文件](https://github.com/fjzhu/blog/blob/master/Markdown/test/Tutorial%206%20Answers%20To%20Additional%20Tutorial%20Questions.pdf)
     >由于Markdown不支持PDF格式的传送，因此应链接到PDF所在的Github网页
+- <a href= "#tag-jump">页面内跳转</a>
+    >这是目录`<a href= "#tag-jump"></a>`
+    <br>
+    >这是跳转`<a id="tag-jump" href="#tag-jump"></a>`
+    <br>
+<a id="tag-jump" href="#tag-jump">看这里</a>
 
 ## *Ending~*
